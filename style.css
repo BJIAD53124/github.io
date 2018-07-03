@@ -1,0 +1,52 @@
+p {
+	margin-bottom: 12px;
+}
+h1,h2,h3 {
+	font-weight: 400px;
+	margin-bottom: 0px;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 32px;
+	border-bottom: 1px color:grey;
+	margin-bottom: 8px;
+	border-bottom: 1px solid grey;
+}
+h3 {
+	font-size: 20px;
+}
+#header {
+	margin-bottom: 32px;
+	text-align: center;
+}
+#main {
+	text-align: center;
+}
+#footer {
+margin-top: 64px;
+text-align: center;
+}
+#stringdown {
+	display: block;
+margin-top: 15px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom: 15px;
+}
+.jump {
+	margin-bottom: 17px;
+}
+.eul {
+	font-weight: bold;
+	font-size: 18px;
+	
+}
+li {
+	font-weight: normal;
+	font-size: smaller;
+}
+#thelast {
+	margin-top: 60px;
+}
